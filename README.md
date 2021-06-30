@@ -1,6 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm [Samiksha](https://samiksha8888989.github.io/)!
 
-![Samiksha Naik]
 
 #### Welcome to my profile 💻
 
@@ -38,7 +37,7 @@ Hobbies: Dancing and Photography
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Samiksha Naik linkedin style="margin-bottom: 5px;" />
 </a>
   
- <a href="https://github.com/samiksha8888989 target="_blank">
+ <a href="https://github.com/samiksha8888989" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=Samiksha Naik GitHub style="margin-bottom: 5px;" />
 </a>
   
