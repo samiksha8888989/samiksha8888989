@@ -27,7 +27,7 @@ Hobbies: Dancing and Photography
 
 ### Recent Projects 👨‍💻
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Akash1362000&repo=Django_Student_Management_System&show_icons=true&theme=monokai"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akash1362000&repo=News-Web-App&show_icons=true&theme=great-gatsby"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samiksha8888989&repo=samiksha8888989.github.io&show_icons=true&theme=great-gatsby"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samiksha8888989&repo=TodoAppo&show_icons=true&theme=great-gatsby">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Akash1362000&repo=Django_Student_Management_System&show_icons=true&theme=monokai"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akash1362000&repo=News-Web-App&show_icons=true&theme=great-gatsby"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samiksha8888989&repo=samiksha8888989.github.io&show_icons=true&theme=great-gatsby"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samiksha8888989&repo=https://github.com/samiksha8888989/TodoApp&show_icons=true&theme=great-gatsby">
 
 
 ### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
