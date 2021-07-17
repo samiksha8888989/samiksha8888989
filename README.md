@@ -56,7 +56,7 @@ Hobbies: Dancing and Photography
  
 ---
 
-**Fun Fact ⚡**: _I'm availabe 🙋‍♂️ to grab a **** ☕ 🙊_
+**Fun Fact ⚡**: _I'm availabe 🙋‍♂️ to grab a **coffee** ☕ 🙊_
 
 ---
 
