@@ -7,7 +7,7 @@ Technical Intern at Geniobits
 Technical Instructor at PathaPadha
 21 year old Information Technology Undergraduate student 🎓
 Hobbies: Dancing and Photography
-* Want to connect with me ? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/akash136/) ! 
+
 
 ### Mostly Work With ⚒
 
@@ -51,7 +51,7 @@ Hobbies: Dancing and Photography
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=Samiksha Instagram style="margin-bottom: 5px;" />
 </a>
 
-
+* Want to connect with me ? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/akash136/) ! 
 ---
 
 **Fun Fact ⚡**: _I'm availabe 🙋‍♂️ to grab a **coffee** ☕ 🙊_
