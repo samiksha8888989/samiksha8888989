@@ -4,8 +4,11 @@
 #### Welcome to my profile 💻
 
 Technical Intern at Geniobits
+
 Technical Instructor at PathaPadha
+
 21 year old Information Technology Undergraduate student 👩🏻‍🎓
+
 Hobbies: Dancing💃 and Photography📸
 
 
