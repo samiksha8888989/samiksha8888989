@@ -5,8 +5,9 @@
 
 Technical Intern at Geniobits
 Technical Instructor at PathaPadha
-21 year old Information Technology Undergraduate student 🎓
-Hobbies: Dancing and Photography
+21 year old Information Technology Undergraduate student 👩🏻‍🎓
+Hobbies: Dancing💃 and Photography📸
+
 
 
 ### Mostly Work With ⚒
@@ -25,7 +26,7 @@ Hobbies: Dancing and Photography
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiksha8888989&layout=compact&theme=midnight-purple)](https://github.com/samiksha8888989)
 
 
-### Recent Projects 👨‍💻
+### Recent Projects 👩🏻‍💻
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akash1362000&repo=Django_Student_Management_System&show_icons=true&theme=monokai"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akash1362000&repo=News-Web-App&show_icons=true&theme=great-gatsby"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samiksha8888989&repo=samiksha8888989.github.io&show_icons=true&theme=great-gatsby">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=samiksha8888989&repo=TodoApp&show_icons=true&theme=monokai">
@@ -56,7 +57,7 @@ Hobbies: Dancing and Photography
  
 ---
 
-**Fun Fact ⚡**: _I'm availabe 🙋‍♂️ to grab a **coffee** ☕ 🙊_
+**Fun Fact 😝**: _I'm availabe 👱🏻‍♀️ to grab a **coffee** ☕_
 
 ---
 
