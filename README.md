@@ -7,6 +7,8 @@ Technical Intern at Geniobits
 
 Technical Instructor at PathaPadha
 
+Cultural Head at ITESA🎭
+
 21 year old Information Technology Undergraduate student 👩🏻‍🎓
 
 Hobbies: Dancing💃 and Photography📸
